@@ -13,5 +13,8 @@
     },
     "autoload": {
         "psr-4": { "": ["application/core/", "application/model/"] }
+    },
+    "require": {
+        "twbs/bootstrap": "4.1.3"
     }
 }
